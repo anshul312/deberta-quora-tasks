@@ -1,0 +1,15 @@
+Results Summary
+===============
+
+Quora Insincere Questions Classification
+-----------------------------------------
+Best Threshold: 0.8582
+Precision: 0.7504
+Recall:    0.8760
+F1:        0.8083
+
+Quora Question Pairs (Duplicate Detection)
+------------------------------------------
+Precision: 0.9086
+Recall:    0.9540
+F1:        0.9308
